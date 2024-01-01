@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<plurals name="follow">
+		<item quantity="one">%d follower · %d following</item>
+		<item quantity="other">%d followers · %d following</item>
+	</plurals>
+	<plurals name="gist">
+		<item quantity="one">%d public gist</item>
+		<item quantity="other">%d public gists</item>
+	</plurals>
+	<plurals name="repo">
+		<item quantity="one">%d public repository</item>
+		<item quantity="other">%d public repositories</item>
+	</plurals>
+</resources>
